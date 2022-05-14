@@ -5,6 +5,9 @@ public class Main {
         int num=1;
         int  num2= 10;
         System.out.println(num+num2);
+        System.out.println("Is a beautiful day");
+        System.out.println(" Im correct code");
+              
 
 
     }
